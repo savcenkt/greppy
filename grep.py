@@ -1,1 +1,6 @@
-print("Oh, hey there!")
+#!/usr/bin/env python3
+
+import sys
+
+print(sys.argv)
+
